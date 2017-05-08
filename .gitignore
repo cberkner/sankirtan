@@ -1,0 +1,15 @@
+/admin/templates_c/*
+/nbproject/*
+/includes/config.JTL-Shop.ini.php
+/dbeS/logs/*
+/dbeS/tmp/*
+/install/*
+/templates_c/*
+/jtllogs/*
+/export/*
+/.htaccess
+/.htpasswd
+/media/*
+/bilder/*
+/rss.xml
+.idea/
